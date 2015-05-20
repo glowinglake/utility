@@ -1,7 +1,9 @@
 #ifndef MYHASH
 #define MYHASH
 #include <iostream>
+
 template <class K, class O>
+
 class Hash {
 private:
 	struct Node {
